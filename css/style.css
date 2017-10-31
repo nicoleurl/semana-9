@@ -1,0 +1,204 @@
+/**** head ****/
+
+.navbar {
+	background: url(../images/B2.jpg);
+	background-position: center;
+}
+
+.navbar-brand{
+	color: white !important;
+	background: black;
+	padding: 5px;
+	font-family: 'Oswald', sans-serif;
+	font-size: 2em;
+	font-weight: 500;
+
+}
+
+.navbar-text {
+	color: white !important;
+	background: black;
+	padding: 17px;
+	text-align: left;
+	font-family: 'Open Sans', sans-serif;
+	font-size: 1em;
+	text-transform: uppercase;
+
+}
+
+/**** nav ****/
+
+.nav-link { 
+	color: white !important;
+	font-family: 'Open Sans', sans-serif;
+	text-transform: uppercase;
+	font-size: 0.9em;
+ }
+
+.nav-link:hover {
+	color: #F391CD !important;
+}
+
+#otro {
+	background: #000 !important;
+	color: white;
+	text-align: right;
+}
+
+/**** posts ****/
+
+.col-8 { 
+	height: 80vh;
+	background: url(../images/bi3.jpg);
+	background-position: left;
+}
+
+.col-4{
+padding-right: 0px;
+	padding-left: 0px;
+}
+
+#one {
+	background-color:#C8D974;
+	height: 40vh;
+}
+
+a { 
+	text-decoration: none !important; }
+
+#one:hover {
+	background: url(../images/bg1.jpg);
+	background-position: bottom;
+}
+
+#two {
+	background: url(../images/b4.jpg);
+	background-color: #6FD9C2;
+	height: 40vh;
+}
+
+#two:hover {
+	background: #6FD9C2;
+	
+}
+
+.display-3 { 
+	color: white !important;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	padding-top: 30%;
+	padding-left: 10px;
+
+ }
+
+ .lead {
+ 	color: white !important;
+ 	font-family: 'Open Sans', sans-serif;
+ 	padding-left: 10px;
+
+ }
+
+button {
+	background-color: #6FD9C2;
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 600;
+	font-size: 0.9em;
+	padding: 10px 15px;
+	border: 0px;
+	border-radius: 7px;
+	text-transform: uppercase;
+	margin-left: 10px;
+}
+
+
+h2 {
+	color: white !important;
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	font-size: 3em;
+	padding-left: 10px;
+	padding-top: 35%;
+	margin-bottom: 0px;
+
+}
+
+.cuadro {
+	color: white;
+	font-family: 'Open Sans', sans-serif;
+	padding-left: 10px;
+}
+
+/***** playlist ****/
+
+h3 {
+	font-family: 'Oswald', sans-serif;
+	text-transform: uppercase;
+	font-size: 3em;
+	padding-top: 30px;
+}
+
+.container-fluid {
+    padding-left: 0px;
+    padding-right: 0px; 
+}
+
+.wrap {
+	padding-left: 15px;
+	padding-right: 15px;
+}
+
+
+.col-2 {
+	text-align: center;
+	padding-top: 20px;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+audio {
+	max-width: 150px;
+}
+
+.name {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: : 300;
+	font-size: 0.8em;
+	padding: 3px;
+	text-align: center;
+	margin: 0 auto;
+
+
+}
+
+.artist {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 400;
+	font-size: 0.9em;
+}
+
+img {
+	max-width: 200px;
+
+}
+
+
+/********* footer **********/
+
+footer {
+	width: 100%;
+	background: black;
+	margin: 0 auto;
+	margin-top: 3%;
+	display: inline-block;
+	padding-left: 0px;
+	padding-right: 0px;
+	}
+
+#foot {
+	font-family: 'Open Sans', sans-serif;
+	font-weight: 300;
+	font-size: 0.7em;
+	color: white;
+	padding: 10px;
+}
